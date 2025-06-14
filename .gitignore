@@ -1,0 +1,10 @@
+.DS_Store
+
+# Ignore media directories
+audio/
+video/
+
+# Ignore max patches
+*.maxpat
+
+*.ini
